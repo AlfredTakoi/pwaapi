@@ -1,5 +1,5 @@
 {
-  products: [{"id":1,"name":"Celery Root","category":"Mauv"},
+  "products": [{"id":1,"name":"Celery Root","category":"Mauv"},
 {"id":2,"name":"Zucchini - Green","category":"Mauv"},
 {"id":3,"name":"Tea - Grapefruit Green Tea","category":"Purple"},
 {"id":4,"name":"Dill Weed - Dry","category":"Maroon"},
