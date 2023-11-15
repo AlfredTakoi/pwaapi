@@ -1,0 +1,23 @@
+{
+  products: [{"id":1,"name":"Celery Root","category":"Mauv"},
+{"id":2,"name":"Zucchini - Green","category":"Mauv"},
+{"id":3,"name":"Tea - Grapefruit Green Tea","category":"Purple"},
+{"id":4,"name":"Dill Weed - Dry","category":"Maroon"},
+{"id":5,"name":"Pepper - Red, Finger Hot","category":"Red"},
+{"id":6,"name":"Vinegar - Balsamic","category":"Yellow"},
+{"id":7,"name":"Chick Peas - Canned","category":"Khaki"},
+{"id":8,"name":"Chilli Paste, Ginger Garlic","category":"Red"},
+{"id":9,"name":"Puff Pastry - Slab","category":"Khaki"},
+{"id":10,"name":"Calypso - Black Cherry Lemonade","category":"Turquoise"},
+{"id":11,"name":"Cookie Dough - Peanut Butter","category":"Turquoise"},
+{"id":12,"name":"Muffin - Blueberry Individual","category":"Crimson"},
+{"id":13,"name":"Wine - Barolo Fontanafredda","category":"Purple"},
+{"id":14,"name":"Glaze - Apricot","category":"Red"},
+{"id":15,"name":"Wine - Chianti Classico Riserva","category":"Pink"},
+{"id":16,"name":"Wine - Chablis J Moreau Et Fils","category":"Crimson"},
+{"id":17,"name":"Raspberries - Fresh","category":"Turquoise"},
+{"id":18,"name":"Muffin Batt - Ban Dream Zero","category":"Purple"},
+{"id":19,"name":"Wine - Coteaux Du Tricastin Ac","category":"Goldenrod"},
+{"id":20,"name":"Cup - 3.5oz, Foam","category":"Maroon"}]
+  
+}
